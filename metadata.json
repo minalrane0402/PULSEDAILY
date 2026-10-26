@@ -1,0 +1,6 @@
+{
+  "name": "PulseDaily - Executive AI News",
+  "description": "Executive AI news & briefing digest powered by live HackerNews and Gemini structured analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
